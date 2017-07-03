@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ initialiseGUI2()
+comment1.params=we\ stage
+comment1.target=void\ terminate(javafx.stage.WindowEvent,\ javafx.stage.Stage)
+comment2.params=stage
+comment2.target=void\ addNewItem(javafx.stage.Stage)
+comment3.params=stage
+comment3.target=void\ getImage(javafx.stage.Stage)
+numComments=4

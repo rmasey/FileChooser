@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=ranking\ name\ country\ imageFileName
+comment0.target=University(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=University()
+comment10.params=country
+comment10.target=void\ setCountry(java.lang.String)
+comment11.params=imageFileName
+comment11.target=void\ setImageFileName(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=other
+comment3.target=int\ compareTo(University)
+comment4.params=
+comment4.target=int\ getRanking()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=java.lang.String\ getCountry()
+comment7.params=
+comment7.target=java.lang.String\ getImageFileName()
+comment8.params=ranking
+comment8.target=void\ setRanking(int)
+comment9.params=name
+comment9.target=void\ setName(java.lang.String)
+numComments=12
